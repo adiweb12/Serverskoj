@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://serverooajbvw6r37hsbbwplh.netlify.app/';
+const API_BASE_URL = 'http://localhost:3000/api';
 
 // --- Helper Functions ---
 function getAuthToken() {
